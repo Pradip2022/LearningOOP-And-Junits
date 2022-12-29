@@ -28,7 +28,7 @@ public class simpleUseOfMethods {
         allowsToCallPublicMethod.myPublicMethod();
 
 
-        //Remember creating objects creates a brand new data
-        //while static variables and methods are only one shared across the entire program
+        //Remember creating objects creates a brand new data (public)
+        //while static variables and methods are only one shared across the entire program (static)
     }
 }
