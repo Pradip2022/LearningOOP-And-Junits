@@ -1,0 +1,36 @@
+
+Access Modifiers:
+
+    public
+
+        - The class is public and accessible meaning all the code within the public class can be used by other classes
+
+    private
+
+        - The class that is private is not accessible to other class to be used.
+
+    protected
+
+        -  The same folder and sub folders has access to code but code can not be used if it is outside of the folder/package
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Non-Access Modifiers
+
+        final
+
+            - Attributes and methods can not be overridden or modified
+
+        static
+
+            - Attributes and methods belongs to the class rather an object meaning it can not be created as an object and is shared.
+
+        abstract
+
+            - can be used in abstract class and methods
+
+               - abstract methods has empty body
+
+
