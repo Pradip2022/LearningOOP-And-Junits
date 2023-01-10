@@ -27,7 +27,7 @@ Non-Access Modifiers
 
             - Attributes and methods belongs to the class rather an object meaning it can not be created as an object and is shared.
 
-        abstract
+              abstract
 
             - can be used in abstract class and methods
 
