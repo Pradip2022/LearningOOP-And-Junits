@@ -1,0 +1,4 @@
+Encapsulation
+    - making the sensitive data is hidden from users
+    - to achieve this you need to use the private instead of public modifiers.
+    - Getter and Setter
