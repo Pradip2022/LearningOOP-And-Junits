@@ -1,0 +1,4 @@
+Inheritance
+    - subclass (child): class that inherits from another class
+    - superclass (parent): the class being inherited from
+    - extends keyword is needed to be used
