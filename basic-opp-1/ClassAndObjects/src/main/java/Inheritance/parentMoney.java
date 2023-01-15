@@ -1,4 +1,4 @@
-package simpleModifiers.Inheritance;
+package Inheritance;
 
 
 public class parentMoney {

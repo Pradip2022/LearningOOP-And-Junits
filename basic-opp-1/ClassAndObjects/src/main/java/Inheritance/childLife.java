@@ -1,4 +1,4 @@
-package simpleModifiers.Inheritance;
+package Inheritance;
 
 public class childLife extends parentMoney{
     static int childMoney = 9000;
