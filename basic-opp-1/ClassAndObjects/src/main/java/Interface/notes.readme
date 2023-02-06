@@ -1,0 +1,7 @@
+Interface
+    - is abstract class that is used to group related methods with empty body
+
+    interface Animal{
+        public void animalSound(); // interface methods (does not have a body)
+        public void run(); //interface methods (does not have a body)
+    }
